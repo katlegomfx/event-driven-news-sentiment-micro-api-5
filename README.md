@@ -98,3 +98,10 @@ Extending the demo
 pip install -r requirements.txt
 python main.py
 ```
+
+<!-- copilot-video-pipeline:links:start -->
+## Published Links
+
+- GitHub: https://github.com/katlegomfx/event-driven-news-sentiment-micro-api-5
+- YouTube: https://youtu.be/WIoCGpH-PX0
+<!-- copilot-video-pipeline:links:end -->
