@@ -103,5 +103,5 @@ python main.py
 ## Published Links
 
 - GitHub: https://github.com/katlegomfx/event-driven-news-sentiment-micro-api-5
-- YouTube: https://youtu.be/WIoCGpH-PX0
+- YouTube: https://youtu.be/3RcdLYJFLuA
 <!-- copilot-video-pipeline:links:end -->
