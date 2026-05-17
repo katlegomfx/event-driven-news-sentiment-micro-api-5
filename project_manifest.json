@@ -1,0 +1,7 @@
+{
+  "task_id": 5,
+  "title": "Event-Driven News Sentiment Micro-API",
+  "description": "What it is: A tiny API that accepts short text (headline or press release snippet) or a URL and returns a numeric sentiment and a trading action hint (buy/hold/sell). Business angle: offer webhook-style integration for trading bots and terminals (pay for volume, higher accuracy models for paid tiers). Terminal-friendly demo: curl -X POST http://localhost:5000/sentiment -d '{\"ticker\":\"tsla.us\",\"text\":\"Company reports stronger-than-expected deliveries\"}' returns {\"sentiment\":0.72,\"action\":\"buy\",\"explanation\":\"positive keywords: deliveries,stronger\"}. Implementation surface: compact Flask app, optional tiny dependency (requests) for fetching URLs; sentiment scoring done with a small rule-based lexicon and simple heuristics (no ML required) so it stays lightweight and explainable.",
+  "project_dir": "C:\\Users\\katle\\coreAgent\\projects\\copilot_video_pipeline\\generated_projects\\event-driven-news-sentiment-micro-api-5",
+  "model": "gpt-5-mini"
+}
